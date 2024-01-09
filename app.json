@@ -1,13 +1,15 @@
 {
-	"name": "Deploy",
-	"description": "Wa Bot.",
-	"keywords": [
-		"whatsapp",
-		"bot"
+  "name": "Small Sharp Tool",
+  "description": "This app does one little thing, and does it well.",
+  "keywords": [
+    "productivity",
+    "HTML5",
+    "scalpel"
   ],
   "repository": "https://github.com/AbhishekSuresh2/ABHISHEK-SER",
   "stack": "container",
   "env": {
+	  
     "SESSION_ID": {
       "description": "Put Your SESSION_ID Here",
       "required": true,
