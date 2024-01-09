@@ -40,7 +40,7 @@ ABHISHEK-SER Multi Device Whatsapp Bot.
 ---
 ### Deploy Heroku 
 
-<a href="https://heroku.com/deploy?template=https://github.com/AbhishekSuresh2/ABHISHEK-SER/"><img title="ABHISHEK-SER Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Cosmossreal/ABHISHEK-SER"><img title="ABHISHEK-SER Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ---
 ### Heroku Tutorial
