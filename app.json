@@ -1,8 +1,9 @@
 {
-  "name": "Costomizable WhatsApp Bot",
-  "description": " Whatsapp bot.",
-  "keywords": [
-    "whatsapp bot"
+	"name": "Deploy",
+	"description": "Wa Bot.",
+	"keywords": [
+		"whatsapp",
+		"bot"
   ],
   "repository": "https://github.com/AbhishekSuresh2/ABHISHEK-SER",
   "stack": "container",
@@ -10,7 +11,7 @@
     "SESSION_ID": {
       "description": "Put Your SESSION_ID Here",
       "required": true,
-      "value": "Abhi_MailboxWrapping"
+      "value": ""
     },
     "buildpacks": [
     {
